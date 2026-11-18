@@ -1,0 +1,7 @@
+{
+  "name": "NexusTeams",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Stanis12/NexusTeams",
+  "description": "A side panel that shows your teammates' NexusRoles roles.",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2305", "nexi-NexusRoles-1.0.0"]
+}
